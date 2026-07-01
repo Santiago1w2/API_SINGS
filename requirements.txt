@@ -12,4 +12,4 @@ keras==3.3.3
 scikit-learn==1.4.2
 joblib==1.4.2
 
-protobuf==4.25.3
+protobuf==3.20.3
